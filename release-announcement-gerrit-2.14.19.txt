@@ -1,0 +1,25 @@
+Gerrit version 2.14.19 is now available. This release includes an upgraded JGit to fix corruption of the packfile list during concurrent GC. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.14.html#21419
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.14.19/index.html
+
+Log of changes since 2.14.18:
+https://gerrit.googlesource.com/gerrit/+log/v2.14.18..v2.14.19?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.14.19.war
+
+SHA1:
+8f8e31b0c4704a44c9ca2f10b01c4a86e9f03650
+
+SHA256:
+c455d6291d7907f268c9be29afbcb1f49ebaca7bac028b2c749a13907c785832
+
+MD5:
+df4ebbc7f5e5f59d10c9a6665f2c94b9
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

@@ -1,0 +1,25 @@
+Gerrit version 3.1.1 is now available. This release includes several improvements since 3.1.0, including critical fixes for git protocol v2. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/3.1.html#311
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/3.1.1/index.html
+
+Log of changes since 3.1.0:
+https://gerrit.googlesource.com/gerrit/+log/v3.1.0..v3.1.1?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-3.1.1.war
+
+SHA1:
+4ff160eb75c317881e3f8b14c334b353679399fc
+
+SHA256:
+9e12abc83b53cdea705fbd794cf02b49c47e52c3c2c589d8c7f8546c8fb28064
+
+MD5:
+59f53381ff7964e5826210394fd5a956
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

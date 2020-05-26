@@ -1,0 +1,25 @@
+Gerrit version 2.14.20 is now available. This release fixes a regression that was introduced in the upgrade of JGit in 2.14.19. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.14.html#21420
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.14.20/index.html
+
+Log of changes since 2.14.19:
+https://gerrit.googlesource.com/gerrit/+log/v2.14.19..v2.14.20?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.14.20.war
+
+SHA1:
+47a031737c322b9eecdd1f1b12016daa37195f1d
+
+SHA256:
+3d330baf98b515b5f1cb35c1287af95ec15d2ea84055fc6eb390c7c53f84f1ee
+
+MD5:
+ef934208c4729a41a8d5ef32ae4ef8fc
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

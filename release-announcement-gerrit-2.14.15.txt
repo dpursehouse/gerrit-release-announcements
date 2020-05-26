@@ -1,0 +1,25 @@
+Gerrit version 2.14.15 is now available. This release includes security fixes for .gitmodules validation (CVE-2018-17456) and force push permissions, plus a couple of other fixes. Users of earlier Gerrit releases are recommended to upgrade. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.14.html#21415
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.14.15/index.html
+
+Log of changes since 2.14.14:
+https://gerrit.googlesource.com/gerrit/+log/v2.14.14..v2.14.15?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.14.15.war
+
+SHA1:
+6ad046b082dbb8f4fb9e984630ca3566af2c4f30
+
+SHA256:
+aa183dd99ed866bc4eff0988b9a6b19bb13f27175786a6ab94c4d56d19305259
+
+MD5:
+ea0282ceb4a39c455d9c14dbb92fede6
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

@@ -1,0 +1,27 @@
+Gerrit version 3.1.0-rc3 is now available. This includes several fixes and
+improvements since rc2, and is the last release candidate before the final
+release next week.
+
+Release Notes:
+https://www.gerritcodereview.com/3.1.html
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/3.1.0/index.html
+
+Log of changes since 3.1.0-rc2:
+https://gerrit.googlesource.com/gerrit/+log/v3.1.0-rc2..v3.1.0-rc3?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-3.1.0-rc3.war
+
+SHA1:
+ea474953e1e498b812039f985bee22c782c42d7d
+
+SHA256:
+1751d74f4d1f7d0e184fd4110db12f67a2833f243baecbf597effc83a0fe334a
+
+MD5:
+fafeafb582d249c070754f13c4a4f929
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

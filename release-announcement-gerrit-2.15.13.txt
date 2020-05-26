@@ -1,0 +1,25 @@
+Gerrit version 2.15.13 is now available. This release fixes a regression that was introduced in the upgrade of JGit in 2.15.12, plus a few other fixes. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.15.html#21513
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.15.13/index.html
+
+Log of changes since 2.15.12:
+https://gerrit.googlesource.com/gerrit/+log/v2.15.12..v2.15.13?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.15.13.war
+
+SHA1:
+17df101ddd29f64b403ae3218117799d86002cdf
+
+SHA256:
+79b0d4983db148178efaa6ba5ed7e4626303354b7e8bd9849809540453fe7078
+
+MD5:
+e4e6944bf2af087a8c82dfcf4ef2c8ca
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

@@ -1,0 +1,25 @@
+Gerrit version 2.15.14 is now available. This release includes several bug fixes and improvements since 2.15.13. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.15.html#21514
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.15.14/index.html
+
+Log of changes since 2.15.13:
+https://gerrit.googlesource.com/gerrit/+log/v2.15.13..v2.15.14?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.15.14.war
+
+SHA1:
+553aed801f59c660e1302af41bd48e17c0f774c9
+
+SHA256:
+2d491bd8c813edf5a35e826056dada8836fbd9c654153f1270a652d90f2ebbc2
+
+MD5:
+74fee341ed79c7660b55e35c1fdf4a0d
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

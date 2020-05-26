@@ -1,0 +1,29 @@
+Gerrit version 3.1.0 is now available. This release includes:
+
+* Support for git protocol v2
+* Ability to define mandatory plugins
+* Upgrade of the PolyGerrit UI to use Polymer 2
+* ... and more
+
+Please see the release notes for full details.
+
+Release Notes:
+https://www.gerritcodereview.com/3.1.html
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/3.1.0/index.html
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-3.1.0.war
+
+SHA1:
+1a462ea2673fc573cf7644c341813808ce1d1faf
+
+SHA256:
+d8e39297c53652f5b9075f5a2493c9ef49a383151eff49d2fb366bb42011759b
+
+MD5:
+1ba983a7d615f0b137156b3cf15e2bfb
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

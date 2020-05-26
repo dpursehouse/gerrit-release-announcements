@@ -1,0 +1,25 @@
+Gerrit version 2.15.9 is now available. This release includes several fixes and improvements since 2.15.8. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.15.html#2159
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.15.9/index.html
+
+Log of changes since 2.15.8:
+https://gerrit.googlesource.com/gerrit/+log/v2.15.8..v2.15.9?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.15.9.war
+
+SHA1:
+bf41f9b66e0b994d691d1704b11a4f8efa40f529
+
+SHA256:
+48c7e9f9f26e2d57b29db474b8b211cd8662ab38543f9a06b91ca568337e6210
+
+MD5:
+c97de2a2605b69275b87aae7c2470a57
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

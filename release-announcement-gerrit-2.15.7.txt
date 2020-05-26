@@ -1,0 +1,25 @@
+Gerrit version 2.15.7 is now available. This release includes dependency upgrades to fix CVE issues, and a few other bug fixes. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.15.html#2157
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.15.7/index.html
+
+Log of changes since 2.15.6:
+https://gerrit.googlesource.com/gerrit/+log/v2.15.6..v2.15.7?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.15.7.war
+
+SHA1:
+6067039d9b37d7bd66b65ab4ace6868b54b62436
+
+SHA256:
+4cb05cb11458a0d7e189cd6138ebf8515411871d399ff1f5aaf5b62e62c636f2
+
+MD5:
+2b90985f2d08954bce3eb8af21ccac28
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

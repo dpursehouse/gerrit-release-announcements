@@ -1,0 +1,25 @@
+Gerrit version 2.15.17 is now available. This release includes a few minor fixes since 2.15.16, and will likely be the last release on the 2.15 series before it reaches EOL. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.15.html#21517
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.15.17/index.html
+
+Log of changes since 2.15.16:
+https://gerrit.googlesource.com/gerrit/+log/v2.15.16..v2.15.17?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.15.17.war
+
+SHA1:
+ee281dcea09a63f9f29688df36d207ad45786ff6
+
+SHA256:
+5d9fb2ba7d73042400c8482fe6e073061f440b08f56adc594e2c0574986e8e2d
+
+MD5:
+e82b1e28092803a15b7508bb1b254fb9
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

@@ -1,0 +1,25 @@
+Gerrit version 2.15.8 is now available. This release includes security fixes for git-upload-pack and OAuth/OpenID auth schemes, plus various other fixes. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.15.html#2158
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.15.8/index.html
+
+Log of changes since 2.15.7:
+https://gerrit.googlesource.com/gerrit/+log/v2.15.7..v2.15.8?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.15.8.war
+
+SHA1:
+8b5600976b67c67a1f951af72df7defb0f363797
+
+SHA256:
+cf775f39711932b2a82142231e33bbb387a23d4550d4d4ed46eef089116397e0
+
+MD5:
+b96c0aefbe0d1225c372b97a287543d1
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

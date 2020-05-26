@@ -1,0 +1,25 @@
+Gerrit version 2.13.14 is now available. This release fixes a regression that was introduced in the upgrade of JGit in 2.13.13.  Before upgrading to this version, please be aware that Java 8 is now required and Gerrit will no longer run on Java 7. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.13.html#21314
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.13.14/index.html
+
+Log of changes since 2.13.13:
+https://gerrit.googlesource.com/gerrit/+log/v2.13.13..v2.13.14?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.13.14.war
+
+SHA1:
+0dbf2d65610d6324c65a9d822e7acb52f7e369af
+
+SHA256:
+a63f128a095e938a1646a283e37ab6fca46b3750c9bd5574d09377dd0c303d77
+
+MD5:
+ef6521c54e31c92fc070158daa2b7067
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

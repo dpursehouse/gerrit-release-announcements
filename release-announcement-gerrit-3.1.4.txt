@@ -1,0 +1,25 @@
+Gerrit version 3.1.4 is now available. This release includes several improvements and bug fixes since 3.1.3. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/3.1.html#314
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/3.1.4/index.html
+
+Log of changes since 3.1.3:
+https://gerrit.googlesource.com/gerrit/+log/v3.1.3..v3.1.4?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-3.1.4.war
+
+SHA1:
+4885a11d55e5ea82930827064607ac2d7b7de056
+
+SHA256:
+81894ca564626fdc774fd09a14b91b9d0c7e836e35fe9f55653f740d451124de
+
+MD5:
+f10b57da5b2489870e747ec3a4d9239f
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

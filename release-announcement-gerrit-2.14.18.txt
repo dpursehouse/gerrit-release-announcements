@@ -1,0 +1,25 @@
+Gerrit version 2.14.18 is now available. This release includes security fixes for git-upload-pack and OAuth/OpenID auth schemes. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.14.html#21418
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.14.18/index.html
+
+Log of changes since 2.14.17:
+https://gerrit.googlesource.com/gerrit/+log/v2.14.17..v2.14.18?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.14.18.war
+
+SHA1:
+c898e684e4de5c81850f709c5d168130b2b0c048
+
+SHA256:
+418977bce5058eff61d3afd3122f11196fef458b2955e1f9fd0b61fddd44829c
+
+MD5:
+d1b8499056320df1a023498a02490b39
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

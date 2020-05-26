@@ -1,0 +1,25 @@
+Gerrit version 2.14.16 is now available. This release fixes a database connection leak that was introduced in 2.14.15, and a file handle leak in the LFS file server. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.14.html#21416
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.14.16/index.html
+
+Log of changes since 2.14.15:
+https://gerrit.googlesource.com/gerrit/+log/v2.14.15..v2.14.16?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.14.16.war
+
+SHA1:
+33a8c1bef5d40e857e3ac82a1a8f79396d1d2a0b
+
+SHA256:
+7ef3f0da22cee6e63f2ddf16ec0d689976a586e29f5749d484cd6403e7711a00
+
+MD5:
+ba6fe21cc98b1542f740bc4567346b00
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

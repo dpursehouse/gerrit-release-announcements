@@ -1,0 +1,25 @@
+Gerrit version 2.14.17 is now available. This release includes several dependency upgrades to fix CVE issues, plus a couple of other improvements. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.14.html#21417
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.14.17/index.html
+
+Log of changes since 2.14.16:
+https://gerrit.googlesource.com/gerrit/+log/v2.14.16..v2.14.17?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.14.17.war
+
+SHA1:
+05434444fef0d58db0688315e6971f19cac73ce2
+
+SHA256:
+435535168edf77e4590ebbc7c01cf98756bbbf048be836443d98d58dc7ba6bf5
+
+MD5:
+1feb616a7c001924a843bce3d6a65866
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

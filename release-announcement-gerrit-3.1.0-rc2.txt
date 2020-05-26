@@ -1,0 +1,32 @@
+Gerrit version 3.1.0-rc2 is now available. This is the third release candidate
+for 3.1.0 including several fixes and improvements since rc1.
+
+There will be one more release candidate at the end of next week, and then the
+final release will be done during the upcoming hackathon in Sunnyvale (11-15 Nov).
+
+Please report any issues on the tracker using the label "Blocking-3.1":
+https://bugs.chromium.org/p/gerrit/issues/list?q=label%3ABlocking-3.1
+
+Release Notes:
+https://www.gerritcodereview.com/3.1.html
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/3.1.0/index.html
+
+Log of changes since 3.1.0-rc1:
+https://gerrit.googlesource.com/gerrit/+log/v3.1.0-rc1..v3.1.0-rc2?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-3.1.0-rc2.war
+
+SHA1:
+ed02b418ceac12525528971ca32954016464ca9d
+
+SHA256:
+9ac3fa21accd2eedcb7ee9ef9065bcf05d85e89dbd45b5a010ef955dc4e53451
+
+MD5:
+40ec38806ab0e7a8b79c30dd0cad418f
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

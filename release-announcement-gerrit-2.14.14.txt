@@ -1,0 +1,25 @@
+Gerrit version 2.14.14 is now available. This release includes a fix for Elasticsearch on AWS. It is only necessary to upgrade to this release from 2.14.13 if you intend to use Elasticsearch on AWS. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.14.html#21414
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.14.14/index.html
+
+Log of changes since 2.14.13:
+https://gerrit.googlesource.com/gerrit/+log/v2.14.13..v2.14.14?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.14.14.war
+
+SHA1:
+f8db99139bfc5c2b5eecc279700876f4bb40731d
+
+SHA256:
+56348e0d72188930e0b723e6f99e218de4b3a9e83efc0db16700f2b23d498f12
+
+MD5:
+e4786df1ed710657a6892d8408c26274
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

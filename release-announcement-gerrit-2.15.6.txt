@@ -1,0 +1,25 @@
+Gerrit version 2.15.6 is now available. This release includes fixes for the database connection leak introduced in 2.15.5, a file handle leak in the LFS file server, and a few other fixes. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.15.html#2156
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.15.6/index.html
+
+Log of changes since 2.15.5:
+https://gerrit.googlesource.com/gerrit/+log/v2.15.5..v2.15.6?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.15.6.war
+
+SHA1:
+9709774dfd6abf0bf8c41b625fcb1e39b4836bf6
+
+SHA256:
+b0cc63cbf0735b9a66fc92c722fe366d60e21db710b9bc8595105693cf3e0e44
+
+MD5:
+f39130e7e335de76c76cd5b13caaab50
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

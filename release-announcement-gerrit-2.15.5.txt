@@ -1,0 +1,25 @@
+Gerrit version 2.15.5 is now available. This release includes security fixes for .gitmodules validation (CVE-2018-17456) and force push permissions, plus a couple of other fixes. Users of earlier Gerrit releases are recommended to upgrade. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/2.15.html#2155
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/2.15.5/index.html
+
+Log of changes since 2.15.4:
+https://gerrit.googlesource.com/gerrit/+log/v2.15.4..v2.15.5?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-2.15.5.war
+
+SHA1:
+7cdcd72a7e4ecdbccc6417b9fa1e403dea6cb13d
+
+SHA256:
+e2f0b8f6e3b2a4a165fc132e91be111acc577d6277539457bb4be65083a40cfb
+
+MD5:
+fed9307264107b8a9b1ab9ca524a7ce8
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md

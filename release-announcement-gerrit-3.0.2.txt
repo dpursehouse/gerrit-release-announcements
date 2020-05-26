@@ -1,0 +1,25 @@
+Gerrit version 3.0.2 is now available. This release includes many bug fixes and improvements since 3.0.1. Please see the release notes for details.
+
+Release Notes:
+https://www.gerritcodereview.com/3.0.html#302
+
+Documentation:
+http://gerrit-documentation.storage.googleapis.com/Documentation/3.0.2/index.html
+
+Log of changes since 3.0.1:
+https://gerrit.googlesource.com/gerrit/+log/v3.0.1..v3.0.2?no-merges
+
+Download:
+https://gerrit-releases.storage.googleapis.com/gerrit-3.0.2.war
+
+SHA1:
+de59342e3e7d9ddbb81854e2848bb1a270d2bc54
+
+SHA256:
+33e159e0bedf00317e2acb3f41f4997f99e6d6d17876f07efefc5bf95913f09b
+
+MD5:
+e9d51b80458c858f9729e181513635f3
+
+Maintainers' public keys:
+https://www.gerritcodereview.com/releases/public-keys.md
